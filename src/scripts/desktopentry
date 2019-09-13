@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=SafecoinWallet
+Comment=Full node and wallet for Safecoin
+GenericName=Wallet
+Exec=/usr/local/bin/safecoinwallet %u
+Icon=safecoinwallet.xpm
+Type=Application
+StartupNotify=true
+StartupWMClass=safecoinwallet
+Categories=Utility;
+MimeType=x-scheme-handler/safecoin;
+Keywords=safecoinwallet;
