@@ -255,7 +255,7 @@ QString Settings::getDonationAddr() {
     if (Settings::getInstance()->isTestnet()) 
             return "ztestsaplingXXX";
     else 
-            return "RtU6tF2d1YE6hw9DHMAyNRb2uUk4PwSCZr";
+            return "Rm3Ze4LA4vDq8erZu6e76BuTC24umsaLbC";
 }
 
 bool Settings::addToZcashConf(QString confLocation, QString line) {
