@@ -26,29 +26,14 @@
     <qresource prefix="/css">
         <file>res/css/main.css</file>
     </qresource>
-    <qresource prefix="/">
-        <file>res/css/fonts/Lato-Black.ttf</file>
-        <file>res/css/fonts/Lato-Bold.ttf</file>
-        <file>res/css/fonts/Lato-BoldItalic.ttf</file>
-        <file>res/css/fonts/Lato-Italic.ttf</file>
-        <file>res/css/fonts/Lato-Regular.ttf</file>
-        <file>res/css/fonts/NotoSans-Bold.ttf</file>
-        <file>res/css/fonts/NotoSans-BoldItalic.ttf</file>
-        <file>res/css/fonts/NotoSans-Italic.ttf</file>
-        <file>res/css/fonts/NotoSans-Regular.ttf</file>
-        <file>res/css/fonts/Volte.otf</file>
-        <file>res/css/fonts/Volte_Bold.otf</file>
-        <file>res/css/fonts/Volte_Light.otf</file>
-        <file>res/css/fonts/Volte_Medium.otf</file>
-        <file>res/css/fonts/Volte_Semibold.otf</file>
-        <file>res/css/fonts/volte_semibold-webfont.ttf</file>
-        <file>res/css/icons/radio_checked_off.png</file>
-        <file>res/css/icons/radio_checked_off@2x.png</file>
-        <file>res/css/icons/radio_checked_on.png</file>
-        <file>res/css/icons/radio_checked_on@2x.png</file>
-        <file>res/css/icons/radio_unchecked_off.png</file>
-        <file>res/css/icons/radio_unchecked_off@2x.png</file>
-        <file>res/css/icons/radio_unchecked_on.png</file>
-        <file>res/css/icons/radio_unchecked_on@2x.png</file>
+    <qresource prefix="/images/blue">
+        <file>res/images/blue/unchecked.png</file>
+        <file>res/images/blue/checked.png</file>
+        <file>res/images/blue/blue_downArrow.png</file>
+        <file>res/images/blue/blue_downArrow_small.png</file>
+        <file>res/images/blue/blue_upArrow_small.png</file>
+        <file>res/images/blue/blue_leftArrow_small.png</file>
+        <file>res/images/blue/blue_rightArrow_small.png</file>
+        <file>res/images/blue/blue_qtreeview_selected.png</file>
     </qresource>
 </RCC>

@@ -2264,6 +2264,11 @@
  <layoutdefault spacing="6" margin="11"/>
  <customwidgets>
   <customwidget>
+   <class>FilledIconLabel</class>
+   <extends>QLabel</extends>
+   <header>fillediconlabel.h</header>
+  </customwidget>
+  <customwidget>
    <class>AddressCombo</class>
    <extends>QComboBox</extends>
    <header>addresscombo.h</header>
@@ -2272,11 +2277,6 @@
    <class>QRCodeLabel</class>
    <extends>QLabel</extends>
    <header>qrcodelabel.h</header>
-  </customwidget>
-  <customwidget>
-   <class>FilledIconLabel</class>
-   <extends>QLabel</extends>
-   <header>fillediconlabel.h</header>
   </customwidget>
  </customwidgets>
  <tabstops>
